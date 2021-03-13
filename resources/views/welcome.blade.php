@@ -64,6 +64,9 @@
             margin-bottom: 30px;
         }
     </style>
+
+    <!-- ads google -->
+    <script data-ad-client="ca-pub-1898232906214727" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 
 <body>
